@@ -19,3 +19,7 @@ java默认最多支持aes128.
 
 
 把里面的两个jar包：`local_policy.jar` 和 `US_export_policy.jar` 替换掉原来安装目录`C:\Program Files\Java\jre6\lib\security` 下的两个jar包接可以了
+
+
+详情请参见博文：
+[Android中AES256加密的实现](http://leochin.com/android-aes256/)
